@@ -28,6 +28,7 @@ Type the following in the terminal:
 
 https://github.com/Soleiles/e-commerce_backend/assets/126806504/b9113451-c95f-432b-bda0-600dd650fa49
 
+If this video does not work, [click here](https://drive.google.com/file/d/1iKBC7BMN4SdMMDUIlDeLoOK_dct_a8UV/view?usp=drive_link)
 
 ## License
 
