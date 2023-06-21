@@ -25,6 +25,10 @@ Type the following in the terminal:
 
 ## Usage
 
+
+https://github.com/Soleiles/e-commerce_backend/assets/126806504/b9113451-c95f-432b-bda0-600dd650fa49
+
+
 ## License
 
 Refer to License in the repository
